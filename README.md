@@ -1,29 +1,25 @@
 # vue-expense-tracker
 
-This template should help get you started developing with Vue 3 in Vite.
+Projeto em Vite+VueJS 3.
 
-## Recommended IDE Setup
+## Recomendação IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
-## Customize configuration
+## Para configurações customizadas
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ## Project Setup
 
-```sh
-npm install
-```
+Este projeto foi realizado com o propósito de obter conhecimento para os métodos, funções, versões mais utilizados de maneira correta e atualiza do Vite+VueJS3 (3.8.0);
 
-### Compile and Hot-Reload for Development
+Destacam-se alguns pontos importantes como:
 
-```sh
-npm run dev
-```
+Utilização do <script setup>
 
-### Compile and Minify for Production
+Método para salvar dados no localstorage
 
-```sh
-npm run build
-```
+Obtenção e passagem de dados com ref e defineProps
+
+Criação de eventos personalizado através da função defineProps
