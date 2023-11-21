@@ -23,3 +23,5 @@ Método para salvar dados no localstorage
 Obtenção e passagem de dados com ref e defineProps
 
 Criação de eventos personalizado através da função defineProps
+
+Para realizar o mesmo projeto utilize o vídeo https://www.youtube.com/watch?v=hNPwdOZ3qFU&ab_channel=TraversyMedia como guia e tutorial!!!
